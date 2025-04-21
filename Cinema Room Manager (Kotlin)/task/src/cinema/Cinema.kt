@@ -1,10 +1,5 @@
 package cinema
 
-import kotlin.compareTo
-import kotlin.div
-import kotlin.text.compareTo
-import kotlin.times
-
 fun readln(prompt: String): String { println(prompt); return readln() }
 
 class Cinema {
